@@ -1,6 +1,6 @@
-# Project Title
+### Laravel 5 Login with Username or Email
 
-Login with Email and Username in laravel 5.6
+Login with Email and Username in laravel 5.6. You can find article explaining the steps in this article <a href="http://www.kodementor.com/login-with-username-in-laravel-5-6/">Login with Email and Username in laravel 5.6</a>
 
 ### Prerequisites
 
